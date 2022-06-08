@@ -1,5 +1,14 @@
-# ICCS 2021
+
 Codebase for "SGAIN, WSGAIN-CP and WSGAIN-GP: Novel GAN Methods for Missing Data Imputation"
+
+Missing Data imputation using Generative Adversarial Network
+
+This file contain 4 different data imputation methods base on GAN.
+1.GAIN
+2.SGAIN
+3.WSGAIN-CP
+4.WSGAIN-GP
+
 
 ## Usage Example
 <pre>
